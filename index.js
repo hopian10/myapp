@@ -106,7 +106,7 @@ function generateHTMLFromFile(
     }
   } catch (err) {
     // console.error(err);
-    throw "File not found";
+    throw "File not found,  try again";
   }
   function createHTML() {
     var filename = input;
