@@ -212,7 +212,7 @@ const dirIsEmpty = (folderName) => {
 };
 
 function successMsg() {
-  console.log("Files processed.");
+  console.log("Files processed. ");
   console.log("HTML Files created.");
 }
 // ----------------------------------------------------------------------------------------------------------
